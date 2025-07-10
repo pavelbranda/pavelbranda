@@ -24,4 +24,10 @@ I love finding creative ways to make testing faster, smarter, and more efficient
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br><br><br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavelbranda.pavelbranda)
+
+<div align="center">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavelbranda.pavelbranda)
+  
+</div>
+
