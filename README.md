@@ -1,7 +1,7 @@
 # 🚀 About Me
 
 Hi there! 👋 
-
+<br>
 I'm a passionate QA Engineer focused on test automation and modern JavaScript ecosystems. I enjoy exploring new technologies and building robust, reliable test solutions that help deliver high-quality web and mobile applications.
 
 I love finding creative ways to make testing faster, smarter, and more efficient. Always curious, always learning. 💡✨
@@ -23,7 +23,5 @@ I love finding creative ways to make testing faster, smarter, and more efficient
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
-
-
+<br><br><br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavelbranda.pavelbranda)
