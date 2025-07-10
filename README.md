@@ -1,6 +1,7 @@
 # 🚀 About Me
 
-Hi there! 👋 I'm a passionate QA Engineer focused on test automation and modern JavaScript ecosystems. I enjoy exploring new technologies and building robust, reliable test solutions that help deliver high-quality web and mobile applications.
+Hi there! 👋 
+I'm a passionate QA Engineer focused on test automation and modern JavaScript ecosystems. I enjoy exploring new technologies and building robust, reliable test solutions that help deliver high-quality web and mobile applications.
 
 I love finding creative ways to make testing faster, smarter, and more efficient. Always curious, always learning. 💡✨
 
