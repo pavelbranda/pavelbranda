@@ -22,3 +22,8 @@ I love finding creative ways to make testing faster, smarter, and more efficient
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavelbranda.pavelbranda)
