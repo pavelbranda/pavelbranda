@@ -3,7 +3,6 @@
 🚧 Profile README is currently under update.
 
 
-<!--
 # 🚀 About Me
 
 Hi there! 👋 
@@ -36,4 +35,3 @@ I love finding creative ways to make testing faster, smarter, and more efficient
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavelbranda.pavelbranda)
   
 </div>
--->
